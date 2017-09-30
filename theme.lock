@@ -14,7 +14,7 @@ assets/theme.scss.liquid:
 config/settings_data.json:
   development: 2017-09-06T01:25:20-04:00   27f5c41b07233c48a35024e6ea4fda28
 config/settings_schema.json:
-  development: 2017-09-08T01:26:46-04:00   ec13512c8732cee3db071751a6ced4c5
+  development: 2017-09-10T08:13:54-04:00   ec13512c8732cee3db071751a6ced4c5
 layout/giftcard.liquid:
   development: 2017-09-05T23:07:50-04:00   383c724191e4fbe7c8e9db0667fdeba9
 layout/password.liquid:
